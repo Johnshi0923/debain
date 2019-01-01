@@ -6,3 +6,9 @@
 
 # FreeSWITCH Day2
 
+1. 架构
+2. 安装
+3. Dialplan计划
+4. lua脚本
+5. ESL编程
+
